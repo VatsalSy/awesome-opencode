@@ -51,6 +51,7 @@
 |[oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)|![GitHub Repo stars](https://badgen.net/github/stars/code-yeongyu/oh-my-opencode)|Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.|
 |[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
 |[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
+|[opencode-ralph-wiggum](https://github.com/Th0rgal/opencode-ralph-wiggum)|![GitHub Repo stars](https://badgen.net/github/stars/Th0rgal/opencode-ralph-wiggum)|Iterative AI development loops with self-correcting agents. Based on the Ralph Wiggum technique.|
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
