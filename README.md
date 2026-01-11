@@ -125,6 +125,15 @@
 </details>
 
 <details>
+  <summary><b>IAM</b> <img src="https://badgen.net/github/stars/spoons-and-mirrors/iam" height="14"/> - <i>Inter agent messaging</i></summary>
+  <blockquote>
+    Allows for parallel subagents communication with a simple yet effective messaging system. Subagents are aware of each other, can announce their status, broadcast, and read messages asynchronously.
+    <br><br>
+    <a href="https://github.com/spoons-and-mirrors/iam">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Micode</b> <img src="https://badgen.net/github/stars/vtemian/micode" height="14"/> - <i>Brainstorm-Plan-Implement workflow</i></summary>
   <blockquote>
     Structured workflow with session continuity, subagent orchestration, git worktree isolation, and AST-aware tools.
