@@ -31,10 +31,10 @@ awesome-opencode/
 │   │   └── *.yaml
 │   ├── resources/
 │   │   └── *.yaml       # Guides, configs, MCP servers, tools, commands
-│   └── forks/
-│       └── *.yaml
-├── examples/
-│   └── *.yaml           # Exemplar files showing all fields
+│   ├── forks/
+│   │   └── *.yaml
+│   └── examples/
+│       └── *.yaml       # Exemplar files showing all fields
 └── docs/
     └── schema-design.md
 ```
@@ -263,16 +263,16 @@ installation: |
 
 ### Examples Directory
 
-Full exemplar files for each extension type are available in `examples/`:
+Full exemplar files for each extension type are available in `data/examples/`:
 
 | Type | Example File |
 |------|-------------|
-| Plugin | `examples/plugin.yaml` |
-| Theme | `examples/theme.yaml` |
-| Agent | `examples/agent.yaml` |
-| Project | `examples/project.yaml` |
-| Resource | `examples/resource.yaml` |
-| Fork | `examples/fork.yaml` |
+| Plugin | `data/examples/plugin.yaml` |
+| Theme | `data/examples/theme.yaml` |
+| Agent | `data/examples/agent.yaml` |
+| Project | `data/examples/project.yaml` |
+| Resource | `data/examples/resource.yaml` |
+| Fork | `data/examples/fork.yaml` |
 
 ---
 
@@ -452,7 +452,7 @@ description: A longer explanation of what this extension does.
 
 ### Complete Entry (All Fields)
 
-See `examples/` directory for full exemplar files.
+See `data/examples/` directory for full exemplar files.
 
 ```yaml
 name: My Extension
@@ -495,7 +495,7 @@ Remaining tasks for the awesome-opencode registry.
 ### 9.1 Update Contributing Guide
 
 Update `contributing.md` to:
-- Reference `examples/` directory for full field documentation
+- Reference `data/examples/` directory for full field documentation
 - Document optional fields (`scope`, `tags`, `min_version`, `homepage`, `installation`)
 - Explain scope behavior and defaults
 
