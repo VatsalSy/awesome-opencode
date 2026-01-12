@@ -20,7 +20,7 @@
 
 <!-- DESCRIPTION -->
 <h3>A curated list of plugins, themes, agents, and resources for <a href="https://opencode.ai/">Opencode</a>.</h3>
-<h3>The AI coding agent for the terminal, built by the team at <a href="https://github.com/sst">SST</a>.</h3>
+<h3>The AI coding agent for the terminal, built by the team at <a href="https://github.com/anomalyco">Anomaly</a>.</h3>
 
 <br>
 
