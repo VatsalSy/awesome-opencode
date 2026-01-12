@@ -13,14 +13,14 @@
 <p>
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" height="28" alt="Awesome" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/sst/opencode"><img src="https://img.shields.io/github/stars/sst/opencode?style=social" height="28" alt="Opencode Stars" /></a>
+<a href="https://github.com/anomalyco/opencode"><img src="https://img.shields.io/github/stars/anomalyco/opencode?style=social" height="28" alt="Opencode Stars" /></a>
 </p>
 
 <br>
 
 <!-- DESCRIPTION -->
 <h3>A curated list of plugins, themes, agents, and resources for <a href="https://opencode.ai/">Opencode</a>.</h3>
-<h3>The AI coding agent for the terminal, built by the team at <a href="https://github.com/sst">SST</a>.</h3>
+<h3>The AI coding agent for the terminal, built by the team at <a href="https://github.com/anomalyco">Anomaly</a>.</h3>
 
 <br>
 
@@ -39,10 +39,10 @@
 
 | Project | Stars | Description |
 | :--- | :--- | :--- |
-| **[opencode](https://github.com/sst/opencode)** | ![Stars](https://badgen.net/github/stars/sst/opencode) | The official opencode AI coding agent. |
-| **[opencode-sdk-js](https://github.com/sst/opencode-sdk-js)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-js) | Official JavaScript/TypeScript SDK for opencode. |
-| **[opencode-sdk-go](https://github.com/sst/opencode-sdk-go)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-go) | Official Go SDK for opencode. |
-| **[opencode-sdk-python](https://github.com/sst/opencode-sdk-python)** | ![Stars](https://badgen.net/github/stars/sst/opencode-sdk-python) | Official Python SDK for opencode. |
+| **[opencode](https://github.com/anomalyco/opencode)** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode) | The official opencode AI coding agent. |
+| **[opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js)** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-js) | Official JavaScript/TypeScript SDK for opencode. |
+| **[opencode-sdk-go](https://github.com/anomalyco/opencode-sdk-go)** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-go) | Official Go SDK for opencode. |
+| **[opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)** | ![Stars](https://badgen.net/github/stars/anomalyco/opencode-sdk-python) | Official Python SDK for opencode. |
 
 <br>
 
