@@ -616,6 +616,15 @@
   </blockquote>
 </details>
 
+<details>
+  <summary><b>Redstone</b> <img src="https://badgen.net/github/stars/BackGwa/Redstone" height="14"/> - <i>AI-built Minecraft plugins</i></summary>
+  <blockquote>
+    an Opencode agent that simplifies Minecraft plugin development and deployment.
+    <br><br>
+    <a href="https://github.com/BackGwa/Redstone">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
 <br>
 <a href="https://github.com/awesome-opencode/awesome-opencode/blob/main/contributing.md"><b>➕ Add an Agent via PR</b></a>
 </details>
