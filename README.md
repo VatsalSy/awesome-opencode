@@ -386,6 +386,15 @@
 </details>
 
 <details>
+  <summary><b>OpenSpec</b> <img src="https://badgen.net/github/stars/Octane0411/opencode-plugin-openspec" height="14"/> - <i>Add Architecture planning and specification agent for OpenSpec</i></summary>
+  <blockquote>
+    An OpenCode plugin that integrates OpenSpec, providing a dedicated agent for planning and specifying software architecture.
+    <br><br>
+    <a href="https://github.com/Octane0411/opencode-plugin-openspec">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Optimal Model Temps</b> <img src="https://badgen.net/github/stars/Lyapsus/opencode-optimal-model-temps" height="14"/> - <i>Optimal sampling temperatures</i></summary>
   <blockquote>
     Minimal plugin that nudges specific models to their preferred sampling temperature.
