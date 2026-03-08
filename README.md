@@ -557,6 +557,15 @@
 </details>
 
 <details>
+  <summary><b>Vibe Coding Slack Notifier</b> <img src="https://badgen.net/github/stars/Wangmerlyn/vibe-coding-slack-notifier" height="14"/> - <i>Slack DM alerts for OpenCode task completion</i></summary>
+  <blockquote>
+    OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, Claude Code, and Gemini workflows.
+    <br><br>
+    <a href="https://github.com/Wangmerlyn/vibe-coding-slack-notifier">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>WakaTime</b> <img src="https://badgen.net/github/stars/angristan/opencode-wakatime" height="14"/> - <i>WakaTime integration</i></summary>
   <blockquote>
     WakaTime integration plugin for tracking coding activity in opencode sessions.

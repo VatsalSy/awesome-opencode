@@ -727,6 +727,18 @@
     "tags": []
   },
   {
+    "productId": "vibe-coding-slack-notifier",
+    "type": "plugins",
+    "displayName": "Vibe Coding Slack Notifier",
+    "repoUrl": "https://github.com/Wangmerlyn/vibe-coding-slack-notifier",
+    "tagline": "Slack DM alerts for OpenCode task completion",
+    "description": "OpenCode-compatible Slack notifier plugin and toolkit for Codex, OpenCode, Claude Code, and Gemini workflows.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "wakatime",
     "type": "plugins",
     "displayName": "WakaTime",
