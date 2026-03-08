@@ -260,6 +260,15 @@
 </details>
 
 <details>
+  <summary><b>open-plan-annotator</b> <img src="https://badgen.net/github/stars/ndom91/open-plan-annotator" height="14"/> - <i>Annotate LLM plans like a Google Doc!</i></summary>
+  <blockquote>
+    A fully local agentic coding plugin that intercepts plan mode and opens an annotation UI in your browser. Select text to strikethrough, replace, insert, or comment — then approve the plan or request changes
+    <br><br>
+    <a href="https://github.com/ndom91/open-plan-annotator">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>OpenAI Codex Auth</b> <img src="https://badgen.net/github/stars/numman-ali/opencode-openai-codex-auth" height="14"/> - <i>ChatGPT Plus/Pro OAuth</i></summary>
   <blockquote>
     This plugin enables opencode to use OpenAI's Codex backend via ChatGPT Plus/Pro OAuth authentication.
@@ -697,15 +706,6 @@
     A terminal UI for managing multiple OpenCode sessions in tmux with git worktree integration and Docker sandboxing.
     <br><br>
     <a href="https://github.com/njbrake/agent-of-empires">🔗 <b>View Repository</b></a>
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>GolemBot</b> <img src="https://badgen.net/github/stars/0xranx/golembot" height="14"/> - <i>Unified AI assistant framework for multiple Coding Agent CLIs</i></summary>
-  <blockquote>
-    Wraps Claude Code, Cursor, OpenCode, and Codex behind a single API with a Skill system, IM channel adapters (Feishu/Slack/Telegram/Discord), fleet mode, and an interactive onboard wizard.
-    <br><br>
-    <a href="https://github.com/0xranx/golembot">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
