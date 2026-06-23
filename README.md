@@ -498,6 +498,21 @@ sync and targeted validation checks, and helps keep repo knowledge branch-local 
 </details>
 
 <details>
+  <summary><b>Opencode LiteLLM</b> <img src="https://badgen.net/github/stars/yuseferi/opencode-litellm" height="14"/> - <i>Auto-discover models from a LiteLLM proxy</i></summary>
+  <blockquote>
+    Drop-in LiteLLM provider for OpenCode with zero configuration. Auto-detects a running
+LiteLLM proxy on common ports (4000, 8000, 8080), pulls every model from /v1/models,
+and registers them in OpenCode automatically — no model lists to hand-maintain. Smart
+name formatting, modality categorization (chat/embedding/image/audio), provider
+extraction, optional API-key auth, and a 5-second timeout so a slow proxy never blocks
+startup.
+
+    <br><br>
+    <a href="https://github.com/yuseferi/opencode-litellm">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Log Sanitizer</b> <img src="https://badgen.net/github/stars/errhythm/opencode-log-sanitizer" height="14"/> - <i>Sanitizes pasted logs by redacting long strings, JWTs, bcrypt hashes, and base64 blobs</i></summary>
   <blockquote>
     Sanitizes pasted logs before sending them to AI by redacting long quoted strings, JWT tokens, bcrypt hashes, and base64 blobs to reduce token usage and remove irrelevant noise.
